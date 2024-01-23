@@ -20,18 +20,20 @@ public class BigDataApplication {
     public static void main(String[] args) {
         runInsertUser(SpringApplication.run(BigDataApplication.class, args));
     }
-    
+
     private static void runInsertUser(ConfigurableApplicationContext context){
-        
+
         for (int i = 0; i < 2000; i++) {
-            
+
             new Thread(() -> {
+                int count = 1;
                 while (true){
                     context.getBean(UserMapper.class).insert(User.random());
+                    log.info(StrUtil.format("{}", count++));
                 }
             }).start();
-            
+
         }
     }
-    
+
 }

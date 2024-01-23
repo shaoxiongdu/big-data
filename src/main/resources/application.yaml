@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: local
+    active: home-local
   application:
     name: big-data
 
