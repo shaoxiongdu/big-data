@@ -23,7 +23,7 @@ public class BigDataApplication {
 
     private static void runInsertUser(ConfigurableApplicationContext context){
 
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 1000; i++) {
 
             new Thread(() -> {
                 while (true){
