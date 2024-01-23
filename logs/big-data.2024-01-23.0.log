@@ -1,0 +1,1533 @@
+2024-01-23 14:50:15.294 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting Application on MacBook-Pro-9.local with PID 14154 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 14:50:15.295 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 14:50:15.614 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 14:50:15.619 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 14:50:15.619 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 14:50:15.619 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 14:50:15.648 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 14:50:15.649 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 336 ms
+2024-01-23 14:50:15.705 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 14:50:15.769 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 14:50:15.778 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 14:50:15.783 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started Application in 0.635 seconds (JVM running for 0.954)
+2024-01-23 14:50:19.400 [http-nio-80-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-23 14:50:19.401 [http-nio-80-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-23 14:50:19.404 [http-nio-80-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-01-23 15:11:07.959 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:11:16.072 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 19731 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 15:11:16.073 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 15:11:16.446 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 15:11:16.451 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 15:11:16.452 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 15:11:16.452 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 15:11:16.488 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 15:11:16.488 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 390 ms
+2024-01-23 15:11:16.565 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:11:16.634 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 15:11:16.647 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 15:11:16.652 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.725 seconds (JVM running for 1.009)
+2024-01-23 15:11:16.681 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 15:12:32.755 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:12:34.349 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 19977 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 15:12:34.349 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 15:12:34.684 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 15:12:34.689 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 15:12:34.689 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 15:12:34.689 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 15:12:34.722 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 15:12:34.722 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 350 ms
+2024-01-23 15:12:34.786 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:12:34.849 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 15:12:34.862 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 15:12:34.867 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.689 seconds (JVM running for 0.939)
+2024-01-23 15:12:55.320 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:12:56.883 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 20149 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 15:12:56.884 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 15:12:57.208 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 15:12:57.213 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 15:12:57.213 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 15:12:57.213 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 15:12:57.244 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 15:12:57.244 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 340 ms
+2024-01-23 15:12:57.304 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 15:12:57.362 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 15:12:57.374 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 15:12:57.379 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.636 seconds (JVM running for 0.884)
+2024-01-23 16:19:20.919 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:19:47.522 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:19:56.180 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:21:29.443 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:23:19.828 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:23:21.552 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 39635 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:23:21.553 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:23:21.600 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:19)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:24:32.288 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 39908 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:24:32.289 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:24:32.347 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:19)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:25:12.039 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 40135 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:25:12.041 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:25:12.096 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:19)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:25:25.680 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 40171 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:25:25.681 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:25:25.739 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:19)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:25:39.939 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 40206 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:25:39.940 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:25:39.984 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:19)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:26:16.516 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 40403 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:26:16.518 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:26:16.573 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:16)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:28:56.383 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 40954 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:28:56.384 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:28:56.433 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.TypeNotPresentException: Type [unknown] not present
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:724)
+	at java.base/sun.reflect.annotation.AnnotationType.<init>(AnnotationType.java:133)
+	at java.base/sun.reflect.annotation.AnnotationType.getInstance(AnnotationType.java:85)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:262)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:121)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:73)
+	at java.base/java.lang.Class.createAnnotationData(Class.java:4068)
+	at java.base/java.lang.Class.annotationData(Class.java:4057)
+	at java.base/java.lang.Class.getDeclaredAnnotations(Class.java:4024)
+	at org.springframework.core.annotation.AnnotationsScanner.getDeclaredAnnotations(AnnotationsScanner.java:454)
+	at org.springframework.core.annotation.AnnotationsScanner.isKnownEmpty(AnnotationsScanner.java:492)
+	at org.springframework.core.annotation.TypeMappedAnnotations.from(TypeMappedAnnotations.java:251)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:351)
+	at org.springframework.core.annotation.MergedAnnotations.from(MergedAnnotations.java:330)
+	at org.springframework.core.type.StandardAnnotationMetadata.<init>(StandardAnnotationMetadata.java:86)
+	at org.springframework.core.type.StandardAnnotationMetadata.from(StandardAnnotationMetadata.java:175)
+	at org.springframework.core.type.AnnotationMetadata.introspect(AnnotationMetadata.java:127)
+	at org.springframework.beans.factory.annotation.AnnotatedGenericBeanDefinition.<init>(AnnotatedGenericBeanDefinition.java:58)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.doRegisterBean(AnnotatedBeanDefinitionReader.java:253)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.registerBean(AnnotatedBeanDefinitionReader.java:147)
+	at org.springframework.context.annotation.AnnotatedBeanDefinitionReader.register(AnnotatedBeanDefinitionReader.java:137)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:157)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:136)
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:128)
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:691)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:392)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at cn.shaoxiongdu.BigDataApplication.main(BigDataApplication.java:16)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/dao/support/DaoSupport
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:441)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:427)
+	at java.base/sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:346)
+	at java.base/java.lang.reflect.Method.getDefaultValue(Method.java:717)
+	... 29 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.DaoSupport
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 56 common frames omitted
+2024-01-23 16:32:50.904 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 41878 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:32:50.905 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:32:51.323 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 16:32:51.328 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 16:32:51.328 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 16:32:51.328 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 16:32:51.362 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 16:32:51.362 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 436 ms
+2024-01-23 16:32:51.440 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:32:51.643 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 16:32:51.652 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 16:32:51.657 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.886 seconds (JVM running for 1.137)
+2024-01-23 16:33:05.294 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:33:06.848 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 41911 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:33:06.849 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:33:07.251 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 16:33:07.256 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 16:33:07.256 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 16:33:07.256 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 16:33:07.291 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 16:33:07.292 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 419 ms
+2024-01-23 16:33:07.359 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:33:07.552 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 16:33:07.561 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 16:33:07.567 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.852 seconds (JVM running for 1.101)
+2024-01-23 16:33:07.589 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:33:07.654 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 16:33:07.741 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 16:38:02.118 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 16:38:02.126 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 16:38:02.127 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:38:04.294 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 43046 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:38:04.296 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:38:04.761 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 16:38:04.766 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 16:38:04.766 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 16:38:04.767 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 16:38:04.804 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 16:38:04.804 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 479 ms
+2024-01-23 16:38:04.918 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:38:05.093 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 16:38:05.104 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 16:38:05.110 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.947 seconds (JVM running for 1.602)
+2024-01-23 16:38:14.966 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:38:15.037 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:40:12.982 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 43512 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 16:40:12.983 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 16:40:13.394 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 16:40:13.399 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 16:40:13.400 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 16:40:13.400 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 16:40:13.436 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 16:40:13.437 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 432 ms
+2024-01-23 16:40:13.515 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:40:13.720 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 16:40:13.730 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 16:40:13.740 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.889 seconds (JVM running for 1.14)
+2024-01-23 16:45:50.995 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:47:36.044 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 16:50:14.417 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 16:54:20.795 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:03:10.616 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:04:10.746 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:13:52.383 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 50986 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:13:52.384 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:13:52.781 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:13:52.786 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:13:52.786 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:13:52.786 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:13:52.815 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:13:52.815 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 404 ms
+2024-01-23 17:13:52.883 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:13:53.060 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:13:53.069 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:13:53.074 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.837 seconds (JVM running for 1.086)
+2024-01-23 17:13:53.098 [Thread-3] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:13:53.236 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:13:53.329 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:14:38.234 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:14:38.239 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:14:38.239 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:14:39.416 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 51200 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:14:39.417 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:14:39.833 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:14:39.838 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:14:39.838 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:14:39.838 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:14:39.870 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:14:39.871 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 431 ms
+2024-01-23 17:14:39.945 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:14:40.137 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:14:40.148 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:14:40.154 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.875 seconds (JVM running for 1.126)
+2024-01-23 17:14:40.180 [Thread-2] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:14:40.313 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:14:40.387 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:14:40.423 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 310117196108022619
+2024-01-23 17:14:40.423 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 450304200305175939
+2024-01-23 17:14:40.423 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 130631196210181932
+2024-01-23 17:14:40.423 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 130104201810152139
+2024-01-23 17:14:40.425 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 653023193005095857
+2024-01-23 17:14:40.426 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 620100199606060879
+2024-01-23 17:14:40.426 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 522324201711205259
+2024-01-23 17:14:40.426 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 610800198711292251
+2024-01-23 17:14:40.426 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 320116201910135177
+2024-01-23 17:14:40.427 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 130427201307025176
+2024-01-23 17:14:40.428 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 512000199904050055
+2024-01-23 17:14:40.429 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 632723196404204712
+2024-01-23 17:14:40.430 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 65020019720828959X
+2024-01-23 17:14:40.430 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 441225197105013717
+2024-01-23 17:14:40.430 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 710000196703213315
+2024-01-23 17:14:40.430 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 441302193806295174
+2024-01-23 17:14:40.432 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 110115200312035854
+2024-01-23 17:14:40.433 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 810000192909047952
+2024-01-23 17:14:40.433 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 360830199612213555
+2024-01-23 17:14:40.433 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 710000198710108635
+2024-01-23 17:14:40.435 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 440303201701210691
+2024-01-23 17:14:40.435 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 32050019360609479X
+2024-01-23 17:14:40.435 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 330483194305141814
+2024-01-23 17:14:40.435 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 53012419500323659X
+2024-01-23 17:14:40.437 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 110117200304016314
+2024-01-23 17:14:40.438 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 710000201304287353
+2024-01-23 17:14:40.438 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 653123200501031658
+2024-01-23 17:14:40.438 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 445224200307154931
+2024-01-23 17:14:40.438 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 710000196403245710
+2024-01-23 17:14:40.438 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 330424195005149130
+2024-01-23 17:14:40.438 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 621000194307050753
+2024-01-23 17:14:40.438 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 653221201003267710
+2024-01-23 17:14:40.441 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 632500195603240310
+2024-01-23 17:14:40.442 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 611022192711164899
+2024-01-23 17:14:40.442 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 510422196206283737
+2024-01-23 17:14:40.442 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 331123202010054233
+2024-01-23 17:14:40.442 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 622900193212125471
+2024-01-23 17:14:40.444 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 510600197301133339
+2024-01-23 17:14:40.444 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 710000195810116831
+2024-01-23 17:14:40.444 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 140824199303123910
+2024-01-23 17:14:40.444 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 640000199311050313
+2024-01-23 17:14:40.444 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 370104200001275294
+2024-01-23 17:14:40.447 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 341700192806087851
+2024-01-23 17:14:40.448 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 220600194407098196
+2024-01-23 17:14:40.448 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 630123200408191298
+2024-01-23 17:14:40.448 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 65432219860904857X
+2024-01-23 17:14:40.448 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 370404201606229312
+2024-01-23 17:14:40.448 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 500117194308092714
+2024-01-23 17:14:40.448 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 469021196405200899
+2024-01-23 17:14:40.448 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 440704200804086551
+2024-01-23 17:14:40.449 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 341882200308082094
+2024-01-23 17:14:40.448 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 710000193712161015
+2024-01-23 17:14:40.451 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 54252419591028737X
+2024-01-23 17:14:40.452 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 350111200411141854
+2024-01-23 17:14:40.452 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 540623193701310412
+2024-01-23 17:14:40.454 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 310120201903082532
+2024-01-23 17:14:40.454 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 81000019790407003X
+2024-01-23 17:14:40.454 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 360802196103202330
+2024-01-23 17:14:40.454 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 611025199208185351
+2024-01-23 17:14:40.454 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 310114200704143791
+2024-01-23 17:14:40.454 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 330127197710092696
+2024-01-23 17:14:40.454 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 469002196008201979
+2024-01-23 17:14:40.454 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 220106201105151215
+2024-01-23 17:14:40.454 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 421126193601106399
+2024-01-23 17:14:40.459 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 653128202209276018
+2024-01-23 17:14:40.460 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 131081196409059215
+2024-01-23 17:14:40.460 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 820000199306211817
+2024-01-23 17:14:40.460 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 45020320180903629X
+2024-01-23 17:14:40.460 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 321182196410199415
+2024-01-23 17:14:40.460 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 120113200106257535
+2024-01-23 17:14:40.460 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 64010019751120087X
+2024-01-23 17:14:40.460 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 433127200005240332
+2024-01-23 17:14:40.460 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 141181194006235630
+2024-01-23 17:14:40.460 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 110102194507231310
+2024-01-23 17:14:40.460 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 630203193212269353
+2024-01-23 17:14:40.464 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 152502200110313499
+2024-01-23 17:14:40.468 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 110112195107283397
+2024-01-23 17:14:40.468 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 653023195101239792
+2024-01-23 17:14:40.468 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 341282193309143578
+2024-01-23 17:14:40.468 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 640181195011226431
+2024-01-23 17:14:40.468 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 410721196508307614
+2024-01-23 17:14:40.468 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 130110201404226371
+2024-01-23 17:14:40.470 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 810000201811016236
+2024-01-23 17:14:40.470 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 330102193612066077
+2024-01-23 17:14:40.470 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 620421198203182779
+2024-01-23 17:14:40.470 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 340522202303206436
+2024-01-23 17:14:40.471 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 232722196212149412
+2024-01-23 17:14:40.474 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 610122196305059412
+2024-01-23 17:14:40.475 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 82000019790308751X
+2024-01-23 17:14:40.475 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 451030193412116699
+2024-01-23 17:14:40.476 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 210204193601229839
+2024-01-23 17:14:40.475 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 110117196802062031
+2024-01-23 17:14:40.475 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 210505196802174594
+2024-01-23 17:14:40.476 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 410927201201128155
+2024-01-23 17:14:40.476 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 640000193301244758
+2024-01-23 17:14:40.476 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 110119200111161390
+2024-01-23 17:14:40.476 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 120115192606268797
+2024-01-23 17:14:40.520 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 610423200708124954
+2024-01-23 17:14:40.520 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 420528198712226170
+2024-01-23 17:14:40.520 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 420102201801220693
+2024-01-23 17:14:48.827 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:14:48.831 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:14:48.831 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:17:18.947 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 51719 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:17:18.949 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:17:19.436 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:17:19.441 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:17:19.441 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:17:19.441 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:17:19.473 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:17:19.473 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 487 ms
+2024-01-23 17:17:19.542 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:17:19.727 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:17:19.737 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:17:19.742 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.944 seconds (JVM running for 1.221)
+2024-01-23 17:17:19.765 [Thread-2] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:17:19.890 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:17:19.975 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:17:19.998 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 654026194610142951
+2024-01-23 17:17:19.998 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 360429194306270172
+2024-01-23 17:17:19.998 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 540321194211211417
+2024-01-23 17:17:19.999 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 620500197805073237
+2024-01-23 17:17:19.999 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 330400201405026436
+2024-01-23 17:17:20.001 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 610122198504089672
+2024-01-23 17:17:20.002 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 37082920140106711X
+2024-01-23 17:17:20.002 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 310107193307291559
+2024-01-23 17:17:20.002 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 640425193802015477
+2024-01-23 17:17:20.004 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 451402201112125095
+2024-01-23 17:17:20.005 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 320707199912064356
+2024-01-23 17:17:20.007 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 610202201205151370
+2024-01-23 17:17:20.007 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 120110192811015439
+2024-01-23 17:17:20.007 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 451023193909264079
+2024-01-23 17:17:20.007 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 820000199712037535
+2024-01-23 17:17:20.009 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 230304196510224058
+2024-01-23 17:17:20.010 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 421126193201236776
+2024-01-23 17:17:20.010 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 110113195806188491
+2024-01-23 17:17:20.011 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 622927198307264071
+2024-01-23 17:17:20.011 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 230524196809214993
+2024-01-23 17:17:20.011 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 330206194612171411
+2024-01-23 17:17:20.012 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 621025194309044434
+2024-01-23 17:17:20.014 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 140223197612246633
+2024-01-23 17:17:20.014 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 141130198303152610
+2024-01-23 17:17:20.015 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 610627200407197814
+2024-01-23 17:17:20.015 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 230604201507110738
+2024-01-23 17:17:20.015 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 652829197712084937
+2024-01-23 17:17:20.016 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 820000194204202730
+2024-01-23 17:17:20.015 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 530602199911042018
+2024-01-23 17:17:20.018 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 320100193612075913
+2024-01-23 17:17:20.018 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 220605193211253454
+2024-01-23 17:17:20.019 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 320211193101191175
+2024-01-23 17:17:20.019 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 630000201008197476
+2024-01-23 17:17:20.019 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 310117202202243272
+2024-01-23 17:17:20.019 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 320206193112035978
+2024-01-23 17:17:20.021 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 652722201310149370
+2024-01-23 17:17:20.021 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 653023196712250733
+2024-01-23 17:17:20.023 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 310113195901023473
+2024-01-23 17:17:20.023 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 152529202212097730
+2024-01-23 17:17:20.025 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 610115197307279073
+2024-01-23 17:17:20.025 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 620122194005264273
+2024-01-23 17:17:20.025 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 451400201101210814
+2024-01-23 17:17:20.025 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 652323196203140734
+2024-01-23 17:17:20.025 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 450328201302079357
+2024-01-23 17:17:20.025 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 140426193808093917
+2024-01-23 17:17:20.026 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 230206192605176457
+2024-01-23 17:17:20.026 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 540235198103185291
+2024-01-23 17:17:20.026 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 110116194610013010
+2024-01-23 17:17:20.029 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 211381201309105675
+2024-01-23 17:17:20.030 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 653225200302217458
+2024-01-23 17:17:20.030 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 360734194003289770
+2024-01-23 17:17:20.030 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 110106201802144592
+2024-01-23 17:17:20.030 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 512021196204061851
+2024-01-23 17:17:20.030 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 532502199702082511
+2024-01-23 17:17:20.030 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 360704198106297351
+2024-01-23 17:17:20.031 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 450110196106087773
+2024-01-23 17:17:20.030 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 330206195512234977
+2024-01-23 17:17:20.030 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 820000192712077316
+2024-01-23 17:17:20.035 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 110119201006121551
+2024-01-23 17:17:20.036 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 450403192802137150
+2024-01-23 17:17:20.036 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 630224198312260190
+2024-01-23 17:17:20.037 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 41071120030402415X
+2024-01-23 17:17:20.037 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 620503200604164611
+2024-01-23 17:17:20.036 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 510302195911190979
+2024-01-23 17:17:20.037 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 371324192711038613
+2024-01-23 17:17:20.036 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 220382194608268516
+2024-01-23 17:17:20.037 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 621223200408072875
+2024-01-23 17:17:20.037 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 371325195908217914
+2024-01-23 17:17:20.037 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 810000200812291294
+2024-01-23 17:17:20.038 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 540235192705175456
+2024-01-23 17:17:20.038 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 210400194809296352
+2024-01-23 17:17:20.041 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 120104192612017493
+2024-01-23 17:17:20.042 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 36042919430609499X
+2024-01-23 17:17:20.042 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 120105194711216151
+2024-01-23 17:17:20.043 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 44128419310112207X
+2024-01-23 17:17:20.043 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 31011719740112845X
+2024-01-23 17:17:20.043 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 810000196811287876
+2024-01-23 17:17:20.043 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 652828201109084054
+2024-01-23 17:17:20.042 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 620900193608252897
+2024-01-23 17:17:20.043 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 610102202005128992
+2024-01-23 17:17:20.043 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 511133192708069699
+2024-01-23 17:17:20.042 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 152222195403130990
+2024-01-23 17:17:20.042 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 321084199005232016
+2024-01-23 17:17:20.043 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 53340020040419875X
+2024-01-23 17:17:20.045 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 361023196210079816
+2024-01-23 17:17:20.047 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 14040419370125759X
+2024-01-23 17:17:20.047 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 411282197103112916
+2024-01-23 17:17:20.047 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 360881200010191657
+2024-01-23 17:17:20.047 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 341021197211118299
+2024-01-23 17:17:20.047 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 513428201012190975
+2024-01-23 17:17:20.047 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 120116198703245793
+2024-01-23 17:17:20.047 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 360822193912126296
+2024-01-23 17:17:20.047 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 230726194608152057
+2024-01-23 17:17:20.048 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 500115201006081251
+2024-01-23 17:17:20.048 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 231102201306285698
+2024-01-23 17:17:20.048 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 340303193910188258
+2024-01-23 17:17:20.048 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 620825197011083576
+2024-01-23 17:17:20.048 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 120112202008310999
+2024-01-23 17:17:20.048 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 652928195501093331
+2024-01-23 17:17:20.049 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 532931193706179739
+2024-01-23 17:20:40.203 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:20:40.210 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:20:40.210 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:20:42.407 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 52591 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:20:42.408 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:20:42.806 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:20:42.811 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:20:42.811 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:20:42.811 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:20:42.842 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:20:42.843 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 413 ms
+2024-01-23 17:20:42.944 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:20:43.141 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:20:43.150 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:20:43.156 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.886 seconds (JVM running for 1.22)
+2024-01-23 17:20:43.178 [Thread-14] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:20:43.318 [Thread-21] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:20:43.399 [Thread-21] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:20:43.420 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 140311197711067518
+2024-01-23 17:20:43.420 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 231224195612030357
+2024-01-23 17:20:43.420 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 131121196506161536
+2024-01-23 17:20:43.425 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 130521196101064034
+2024-01-23 17:20:43.426 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 62112219880907727X
+2024-01-23 17:20:43.426 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 419001198007317711
+2024-01-23 17:20:43.426 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 341003193901129090
+2024-01-23 17:20:43.428 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 632522194511028156
+2024-01-23 17:20:43.429 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 371722195406071532
+2024-01-23 17:20:43.429 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 530800200008273358
+2024-01-23 17:20:43.429 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 330603198004238839
+2024-01-23 17:20:43.431 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 610527199212232850
+2024-01-23 17:20:43.431 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 511129199610053231
+2024-01-23 17:20:43.433 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 220000195601137453
+2024-01-23 17:20:43.433 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 522728194309015451
+2024-01-23 17:20:43.433 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 320623201212298690
+2024-01-23 17:20:43.433 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 210111197711293635
+2024-01-23 17:20:43.433 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 140728199004019718
+2024-01-23 17:20:43.434 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 140581193301129191
+2024-01-23 17:20:43.436 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 152528195602260637
+2024-01-23 17:20:43.436 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 710000201408123556
+2024-01-23 17:20:43.436 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 131122193010121015
+2024-01-23 17:20:43.436 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 710000199701122798
+2024-01-23 17:20:43.436 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 810000195112130832
+2024-01-23 17:20:43.436 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 211221194611159354
+2024-01-23 17:20:43.437 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 330784194403274453
+2024-01-23 17:20:43.439 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 440882192710182312
+2024-01-23 17:20:43.440 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 820000198708276539
+2024-01-23 17:20:43.440 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 522325196505085439
+2024-01-23 17:20:43.440 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 820000201507111150
+2024-01-23 17:20:43.440 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 230303196608209554
+2024-01-23 17:20:43.440 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 440604193203077213
+2024-01-23 17:20:43.440 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 510114197206138650
+2024-01-23 17:20:43.441 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 31011219741115879X
+2024-01-23 17:20:43.442 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 371700196011183974
+2024-01-23 17:20:43.444 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 120102201411242378
+2024-01-23 17:20:43.445 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 411500196601171932
+2024-01-23 17:20:43.445 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 370213198807025157
+2024-01-23 17:20:43.445 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 37132119630325413X
+2024-01-23 17:20:43.445 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 210922196401082179
+2024-01-23 17:20:43.445 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 210224199309122332
+2024-01-23 17:20:43.445 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 320700199009249253
+2024-01-23 17:20:43.445 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 430511195808186872
+2024-01-23 17:20:43.445 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 320830201904090377
+2024-01-23 17:20:43.447 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 232701201212145755
+2024-01-23 17:20:43.448 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 610114201109191575
+2024-01-23 17:20:43.448 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 120101195301045918
+2024-01-23 17:20:43.448 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 231225202105075074
+2024-01-23 17:20:43.448 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 500151195405021712
+2024-01-23 17:20:43.448 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 330200196010051018
+2024-01-23 17:20:43.449 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 540626202009045430
+2024-01-23 17:20:43.448 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 710000194803136119
+2024-01-23 17:20:43.448 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 14022620130505017X
+2024-01-23 17:20:43.451 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 211303194912012834
+2024-01-23 17:20:43.451 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 820000194610281497
+2024-01-23 17:20:43.453 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 140926193902043075
+2024-01-23 17:20:43.453 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 341504194502159231
+2024-01-23 17:20:43.453 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 420322192909300534
+2024-01-23 17:20:43.453 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 810000201301044675
+2024-01-23 17:20:43.453 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 450512195903105399
+2024-01-23 17:20:43.453 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 82000019630319777X
+2024-01-23 17:20:43.453 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 210303192711043052
+2024-01-23 17:20:43.453 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 63020020200519083X
+2024-01-23 17:20:43.455 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 710000198201244938
+2024-01-23 17:20:43.457 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 152523200609061077
+2024-01-23 17:20:43.457 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 120101197707074670
+2024-01-23 17:20:43.458 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 650109199012014157
+2024-01-23 17:20:43.458 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 810000200311218515
+2024-01-23 17:20:43.458 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 511724194804043291
+2024-01-23 17:20:43.458 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 120115199301094791
+2024-01-23 17:20:43.458 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 431281200806306938
+2024-01-23 17:20:43.458 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 120115199912297459
+2024-01-23 17:20:43.458 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 469028192603263811
+2024-01-23 17:20:43.458 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 310000198009255210
+2024-01-23 17:20:43.458 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 120000192911269737
+2024-01-23 17:20:43.459 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 469028201509116251
+2024-01-23 17:20:43.461 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 310101193803210094
+2024-01-23 17:20:43.461 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 410704198702247072
+2024-01-23 17:20:43.462 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 460100196104025957
+2024-01-23 17:20:43.462 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 540232199507049478
+2024-01-23 17:20:43.462 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 820000194404253516
+2024-01-23 17:20:43.463 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 620921199411016195
+2024-01-23 17:20:43.464 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 440115196303235579
+2024-01-23 17:20:43.463 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 411024194112126131
+2024-01-23 17:20:43.464 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 110119192704084012
+2024-01-23 17:20:43.463 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 130824201403152098
+2024-01-23 17:20:43.463 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 420504197306220579
+2024-01-23 17:20:43.464 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 520122195408254011
+2024-01-23 17:20:43.465 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 44020019991115657X
+2024-01-23 17:20:43.465 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 469028194011194110
+2024-01-23 17:20:43.465 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 110111198004039356
+2024-01-23 17:20:43.465 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 500110199812147452
+2024-01-23 17:20:43.465 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 430981195609215774
+2024-01-23 17:20:43.466 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 211321193501138051
+2024-01-23 17:20:43.467 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 360824202302137398
+2024-01-23 17:20:43.467 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 360600195209287098
+2024-01-23 17:20:43.467 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 652327198401155675
+2024-01-23 17:20:43.467 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 230202196906237332
+2024-01-23 17:20:43.467 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 710000193208026172
+2024-01-23 17:20:43.467 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 130281196205272719
+2024-01-23 17:21:29.161 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:21:29.168 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:21:29.168 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:21:31.088 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 52813 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:21:31.089 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:21:31.466 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:21:31.470 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:21:31.471 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:21:31.471 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:21:31.500 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:21:31.500 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 389 ms
+2024-01-23 17:21:31.568 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:21:31.757 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:21:31.767 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:21:31.772 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.816 seconds (JVM running for 1.087)
+2024-01-23 17:21:31.795 [Thread-2] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:21:31.945 [Thread-84] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:21:32.034 [Thread-84] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:21:32.055 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 130902200809202318
+2024-01-23 17:21:32.055 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 320205194204074075
+2024-01-23 17:21:32.055 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 710000198809247897
+2024-01-23 17:21:32.055 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 420882197102073138
+2024-01-23 17:21:32.056 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 540522195401180414
+2024-01-23 17:21:32.056 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 630122194702136615
+2024-01-23 17:21:32.056 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 110107202304148735
+2024-01-23 17:21:32.057 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 460205196506115952
+2024-01-23 17:21:32.057 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 420902202106120891
+2024-01-23 17:21:32.059 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 341202199610223732
+2024-01-23 17:21:32.060 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 640422198304167033
+2024-01-23 17:21:32.061 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 110101198509247238
+2024-01-23 17:21:32.060 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 422826197202172652
+2024-01-23 17:21:32.061 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 50015319390802373X
+2024-01-23 17:21:32.061 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 310118198008052197
+2024-01-23 17:21:32.063 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 500119197007287936
+2024-01-23 17:21:32.065 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 46900219490430255X
+2024-01-23 17:21:32.065 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 32092319331203099X
+2024-01-23 17:21:32.065 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 623027200112200977
+2024-01-23 17:21:32.065 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 371523193702165011
+2024-01-23 17:21:32.067 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 12011719931128273X
+2024-01-23 17:21:32.068 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 320100200212314359
+2024-01-23 17:21:32.067 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 653130194201212751
+2024-01-23 17:21:32.086 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 623000198105255793
+2024-01-23 17:21:32.088 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 350723193101272694
+2024-01-23 17:21:32.088 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 320707193404145136
+2024-01-23 17:21:32.088 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 341702200203148395
+2024-01-23 17:21:32.088 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 710000193207310016
+2024-01-23 17:21:32.088 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 51342919460601557X
+2024-01-23 17:21:32.091 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 130200200606207433
+2024-01-23 17:21:32.091 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 450900200207197912
+2024-01-23 17:21:32.093 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 510117199504270578
+2024-01-23 17:21:32.093 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 610102200204224814
+2024-01-23 17:21:32.093 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 360103193104040032
+2024-01-23 17:21:32.095 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 35092119381229197X
+2024-01-23 17:21:32.095 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 120113193908014073
+2024-01-23 17:21:32.095 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 341022200208244498
+2024-01-23 17:21:32.095 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 360500200310129834
+2024-01-23 17:21:32.095 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 371726196910110270
+2024-01-23 17:21:32.097 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 350521195309148858
+2024-01-23 17:21:32.097 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 532501200605281892
+2024-01-23 17:21:32.097 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 820000196611082499
+2024-01-23 17:21:32.097 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 532926200811173613
+2024-01-23 17:21:32.099 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 530924195702036152
+2024-01-23 17:21:32.100 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 371724201703191072
+2024-01-23 17:21:32.100 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 640400198708093191
+2024-01-23 17:21:32.100 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 62100019280822533X
+2024-01-23 17:21:32.100 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 610702200310019470
+2024-01-23 17:21:32.103 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 810000193803019050
+2024-01-23 17:21:32.105 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 500241200911041093
+2024-01-23 17:21:32.106 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 320106197601139834
+2024-01-23 17:21:32.106 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 630203200001147033
+2024-01-23 17:21:32.108 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 621226199509180836
+2024-01-23 17:21:32.108 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 540423192801014690
+2024-01-23 17:21:32.109 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 31000019651224857X
+2024-01-23 17:21:32.109 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 623022196309216031
+2024-01-23 17:21:32.109 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 469030201710149874
+2024-01-23 17:21:32.109 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 710000199006184153
+2024-01-23 17:21:32.111 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 141030196903025530
+2024-01-23 17:21:32.111 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 510600196310027314
+2024-01-23 17:21:32.111 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 540423198408048197
+2024-01-23 17:21:32.112 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 513432201811261455
+2024-01-23 17:21:32.112 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 370682200404024971
+2024-01-23 17:21:32.115 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 420528199512161813
+2024-01-23 17:21:32.116 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 431022195510235259
+2024-01-23 17:21:32.116 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 420583197407074756
+2024-01-23 17:21:32.116 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 43040520060622435X
+2024-01-23 17:21:32.116 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 532528193606134218
+2024-01-23 17:21:32.116 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 610625201709165959
+2024-01-23 17:21:32.117 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 341321195006084875
+2024-01-23 17:21:32.117 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 820000200111126335
+2024-01-23 17:21:32.117 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 430103199605214278
+2024-01-23 17:21:32.119 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 50023819810706259X
+2024-01-23 17:21:32.120 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 450125193908294038
+2024-01-23 17:21:32.122 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 210404193004071915
+2024-01-23 17:21:32.122 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 810000197308293675
+2024-01-23 17:21:32.122 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 530111192802076371
+2024-01-23 17:21:32.122 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 350400201106157413
+2024-01-23 17:21:32.122 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 350212193808035290
+2024-01-23 17:21:32.122 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 810000197810115954
+2024-01-23 17:21:32.122 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 430424199504113476
+2024-01-23 17:21:32.124 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 610526193007217455
+2024-01-23 17:21:32.124 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 310106199410165279
+2024-01-23 17:21:32.125 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 320412194206065214
+2024-01-23 17:21:32.124 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 130633201408191753
+2024-01-23 17:21:32.124 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 621126195402027635
+2024-01-23 17:21:32.124 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 440117197205117736
+2024-01-23 17:21:32.126 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 654326196501078511
+2024-01-23 17:21:32.126 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 330921198110053415
+2024-01-23 17:21:32.126 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 350628202012140356
+2024-01-23 17:21:32.126 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 371327197302238392
+2024-01-23 17:21:32.126 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 231124199010182516
+2024-01-23 17:21:32.126 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 42900420000330245X
+2024-01-23 17:21:32.126 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 220500192903030655
+2024-01-23 17:21:32.127 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 140106200308164839
+2024-01-23 17:21:32.127 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 360105197101099814
+2024-01-23 17:21:32.128 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 411522198609062551
+2024-01-23 17:21:32.128 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 710000195808215910
+2024-01-23 17:21:32.128 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 420500196605207032
+2024-01-23 17:21:32.129 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 330225202109171912
+2024-01-23 17:22:17.318 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:22:17.326 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:22:17.327 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:22:19.206 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 52898 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:22:19.207 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:22:19.605 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:22:19.609 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:22:19.609 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:22:19.609 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:22:19.639 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:22:19.639 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 409 ms
+2024-01-23 17:22:19.705 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:22:19.887 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:22:19.896 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:22:19.902 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.835 seconds (JVM running for 1.101)
+2024-01-23 17:22:19.925 [Thread-2] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:22:20.063 [Thread-16] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:22:20.142 [Thread-16] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:22:20.165 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 810000194411090530
+2024-01-23 17:22:20.165 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 640200200103120475
+2024-01-23 17:22:20.166 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 640323197706067410
+2024-01-23 17:22:20.166 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 320200197810228195
+2024-01-23 17:22:20.167 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 630000202012031238
+2024-01-23 17:22:20.167 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 360700200406055359
+2024-01-23 17:22:20.167 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 320282199201194472
+2024-01-23 17:22:20.169 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 310118202301319734
+2024-01-23 17:22:20.170 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 321311201112123294
+2024-01-23 17:22:20.170 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 310117194908296774
+2024-01-23 17:22:20.170 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 621202194205013891
+2024-01-23 17:22:20.171 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 610482199304197596
+2024-01-23 17:22:20.172 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 810000194911156153
+2024-01-23 17:22:20.174 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 130632194804038217
+2024-01-23 17:22:20.175 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 510321192710107417
+2024-01-23 17:22:20.175 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 150726195212105670
+2024-01-23 17:22:20.175 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 810000193109242594
+2024-01-23 17:22:20.176 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 230223195405284891
+2024-01-23 17:22:20.176 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 310105199601199598
+2024-01-23 17:22:20.177 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 500105193905134935
+2024-01-23 17:22:20.179 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 330900193206250275
+2024-01-23 17:22:20.179 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 130181193111189974
+2024-01-23 17:22:20.182 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 460203193710030757
+2024-01-23 17:22:20.182 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 469006196705274570
+2024-01-23 17:22:20.182 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 623000201410284798
+2024-01-23 17:22:20.185 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 610331199904034277
+2024-01-23 17:22:20.185 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 230200196407131450
+2024-01-23 17:22:20.185 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 640502193703307950
+2024-01-23 17:22:20.185 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 820000195408303554
+2024-01-23 17:22:20.187 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 220300199701290150
+2024-01-23 17:22:20.188 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 451000199408309550
+2024-01-23 17:22:20.188 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 110102193102123675
+2024-01-23 17:22:20.190 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 810000194802208559
+2024-01-23 17:22:20.190 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 370827202202180090
+2024-01-23 17:22:20.190 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 361028200303087218
+2024-01-23 17:22:20.192 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 530625195802178115
+2024-01-23 17:22:20.192 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 220524199712013070
+2024-01-23 17:22:20.192 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 513422195511087976
+2024-01-23 17:22:20.192 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 820000193202254575
+2024-01-23 17:22:20.194 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 120118201011188350
+2024-01-23 17:22:20.194 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 621223200112282419
+2024-01-23 17:22:20.194 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 31015119640830205X
+2024-01-23 17:22:20.196 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 33038120060626237X
+2024-01-23 17:22:20.196 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 230604193210289434
+2024-01-23 17:22:20.197 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 510683195811113735
+2024-01-23 17:22:20.197 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 500110194907156551
+2024-01-23 17:22:20.197 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 320925197612072391
+2024-01-23 17:22:20.197 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 710000200212022417
+2024-01-23 17:22:20.199 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 640106196804097996
+2024-01-23 17:22:20.199 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 430412197003122492
+2024-01-23 17:22:20.200 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 500115196902251550
+2024-01-23 17:22:20.199 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 420525198808244139
+2024-01-23 17:22:20.199 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 632622202205079177
+2024-01-23 17:22:20.201 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 310117201609096054
+2024-01-23 17:22:20.201 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 42032319960726365X
+2024-01-23 17:22:20.201 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 659008197808276635
+2024-01-23 17:22:20.202 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 440304201110222996
+2024-01-23 17:22:20.202 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 350725200101111298
+2024-01-23 17:22:20.204 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 370686194102072350
+2024-01-23 17:22:20.204 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 350681198809126570
+2024-01-23 17:22:20.206 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 33052319600915175X
+2024-01-23 17:22:20.207 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 310101198409032819
+2024-01-23 17:22:20.207 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 110111196004219091
+2024-01-23 17:22:20.207 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 310106193908167098
+2024-01-23 17:22:20.207 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 330127194411283376
+2024-01-23 17:22:20.207 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 460300194904152454
+2024-01-23 17:22:20.207 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 410306193911298712
+2024-01-23 17:22:20.207 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 61042520191208669X
+2024-01-23 17:22:20.207 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 640500198107251030
+2024-01-23 17:22:20.207 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 360123198506100470
+2024-01-23 17:22:20.207 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 14093219331119109X
+2024-01-23 17:22:20.209 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 820000201509175617
+2024-01-23 17:22:20.209 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 51090319940915171X
+2024-01-23 17:22:20.211 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 51098119450607277X
+2024-01-23 17:22:20.211 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 810000195302268971
+2024-01-23 17:22:20.212 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 43102519511012361X
+2024-01-23 17:22:20.212 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 630223200205139014
+2024-01-23 17:22:20.212 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 310113200401274835
+2024-01-23 17:22:20.212 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 820000196801085957
+2024-01-23 17:22:20.212 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 152531197308178373
+2024-01-23 17:22:20.212 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 360313200202025457
+2024-01-23 17:22:20.214 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 50011719760305321X
+2024-01-23 17:22:20.214 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 41088320221124415X
+2024-01-23 17:22:20.214 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 820000199212208991
+2024-01-23 17:22:20.214 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 150902199111157218
+2024-01-23 17:22:20.214 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 110112200707033416
+2024-01-23 17:22:20.217 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 110107194603064198
+2024-01-23 17:22:20.218 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 141181200812262412
+2024-01-23 17:22:20.218 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 110106192709096571
+2024-01-23 17:22:20.218 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 120112194010141250
+2024-01-23 17:22:20.218 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 330922194709272137
+2024-01-23 17:22:20.218 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 620602201706078558
+2024-01-23 17:22:20.218 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 420582198604020739
+2024-01-23 17:22:20.218 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 450107197909086818
+2024-01-23 17:22:20.218 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 360825192601262498
+2024-01-23 17:22:20.218 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 632623194502276037
+2024-01-23 17:22:20.218 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 440607195304033875
+2024-01-23 17:22:20.218 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 620600194210097135
+2024-01-23 17:22:20.218 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 320623200801037793
+2024-01-23 17:22:20.218 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 620300196708079535
+2024-01-23 17:22:41.755 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:22:41.763 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:22:41.764 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:22:43.521 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53065 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:22:43.522 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:22:43.903 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:22:43.907 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:22:43.908 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:22:43.908 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:22:43.939 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:22:43.939 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 395 ms
+2024-01-23 17:22:44.008 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:22:44.198 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:22:44.207 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:22:44.213 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.824 seconds (JVM running for 1.065)
+2024-01-23 17:22:44.238 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:23:29.521 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:23:31.414 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53274 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:23:31.415 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:23:31.813 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:23:31.818 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:23:31.818 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:23:31.818 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:23:31.850 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:23:31.850 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 411 ms
+2024-01-23 17:23:31.921 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:23:32.107 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:23:32.116 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:23:32.122 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.843 seconds (JVM running for 1.091)
+2024-01-23 17:23:32.144 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:24:37.989 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:24:39.861 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53512 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:24:39.862 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:24:40.245 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:24:40.250 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:24:40.250 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:24:40.250 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:24:40.282 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:24:40.282 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 397 ms
+2024-01-23 17:24:40.355 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:24:40.542 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:24:40.552 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:24:40.557 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.831 seconds (JVM running for 1.085)
+2024-01-23 17:24:40.579 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:25:42.317 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:25:44.109 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53738 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:25:44.110 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:25:44.488 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:25:44.492 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:25:44.492 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:25:44.492 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:25:44.524 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:25:44.525 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 392 ms
+2024-01-23 17:25:44.638 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:25:44.837 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:25:44.847 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:25:44.853 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.876 seconds (JVM running for 1.119)
+2024-01-23 17:25:44.875 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:26:22.561 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:24.389 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53808 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:26:24.390 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:26:24.820 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:26:24.824 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:24.825 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:26:24.825 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:26:24.856 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:26:24.857 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 444 ms
+2024-01-23 17:26:24.924 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:25.105 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:25.114 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:26:25.119 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.863 seconds (JVM running for 1.116)
+2024-01-23 17:26:25.144 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:26:38.207 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:39.983 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 53972 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:26:39.984 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:26:40.357 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:26:40.361 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:40.361 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:26:40.361 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:26:40.390 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:26:40.390 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 382 ms
+2024-01-23 17:26:40.456 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:40.632 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:40.641 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:26:40.646 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.797 seconds (JVM running for 1.031)
+2024-01-23 17:26:40.668 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:26:54.555 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:56.254 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 54007 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:26:56.255 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:26:56.641 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:26:56.645 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:56.646 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:26:56.646 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:26:56.679 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:26:56.679 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 402 ms
+2024-01-23 17:26:56.752 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:26:56.938 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:26:56.947 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:26:56.953 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.831 seconds (JVM running for 1.084)
+2024-01-23 17:26:56.975 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:27:08.229 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:27:09.955 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 54037 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:27:09.956 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:27:10.337 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:27:10.341 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:27:10.342 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:27:10.342 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:27:10.372 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:27:10.373 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 394 ms
+2024-01-23 17:27:10.446 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:27:10.627 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:27:10.637 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:27:10.642 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.823 seconds (JVM running for 1.077)
+2024-01-23 17:27:10.664 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:27:53.756 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:27:55.498 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 54235 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:27:55.499 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:27:55.882 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:27:55.887 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:27:55.887 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:27:55.887 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:27:55.920 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:27:55.920 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 398 ms
+2024-01-23 17:27:55.993 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:27:56.182 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:27:56.192 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:27:56.197 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.833 seconds (JVM running for 1.087)
+2024-01-23 17:27:56.220 [main] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:28:07.511 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:28:09.200 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 54267 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:28:09.201 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:28:09.588 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:28:09.593 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:28:09.593 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:28:09.593 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:28:09.629 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:28:09.629 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 408 ms
+2024-01-23 17:28:09.698 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:28:09.887 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:28:09.897 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:28:09.902 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.838 seconds (JVM running for 1.089)
+2024-01-23 17:28:09.927 [Thread-2] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:28:10.053 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:28:10.131 [Thread-99] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:28:10.155 [Thread-99] INFO  cn.shaoxiongdu.BigDataApplication - 222405193706297556
+2024-01-23 17:28:10.157 [Thread-56] INFO  cn.shaoxiongdu.BigDataApplication - 621000198710194536
+2024-01-23 17:28:10.159 [Thread-63] INFO  cn.shaoxiongdu.BigDataApplication - 710000200810213918
+2024-01-23 17:28:10.164 [Thread-78] INFO  cn.shaoxiongdu.BigDataApplication - 210803198502253218
+2024-01-23 17:28:10.164 [Thread-58] INFO  cn.shaoxiongdu.BigDataApplication - 150922198211157638
+2024-01-23 17:28:10.164 [Thread-80] INFO  cn.shaoxiongdu.BigDataApplication - 320300194807181615
+2024-01-23 17:28:10.164 [Thread-22] INFO  cn.shaoxiongdu.BigDataApplication - 330822197403219614
+2024-01-23 17:28:10.166 [Thread-13] INFO  cn.shaoxiongdu.BigDataApplication - 410482201606204838
+2024-01-23 17:28:10.167 [Thread-72] INFO  cn.shaoxiongdu.BigDataApplication - 410329199407274596
+2024-01-23 17:28:10.167 [Thread-94] INFO  cn.shaoxiongdu.BigDataApplication - 530115200907168654
+2024-01-23 17:28:10.167 [Thread-28] INFO  cn.shaoxiongdu.BigDataApplication - 469025193212295651
+2024-01-23 17:28:10.167 [Thread-54] INFO  cn.shaoxiongdu.BigDataApplication - 421281192605259259
+2024-01-23 17:28:10.169 [Thread-12] INFO  cn.shaoxiongdu.BigDataApplication - 810000194109011176
+2024-01-23 17:28:10.170 [Thread-95] INFO  cn.shaoxiongdu.BigDataApplication - 810000201010313898
+2024-01-23 17:28:10.170 [Thread-24] INFO  cn.shaoxiongdu.BigDataApplication - 450123194001206791
+2024-01-23 17:28:10.172 [Thread-45] INFO  cn.shaoxiongdu.BigDataApplication - 341023195011189977
+2024-01-23 17:28:10.172 [Thread-36] INFO  cn.shaoxiongdu.BigDataApplication - 620321197806290971
+2024-01-23 17:28:10.172 [Thread-86] INFO  cn.shaoxiongdu.BigDataApplication - 371100200006131017
+2024-01-23 17:28:10.172 [Thread-49] INFO  cn.shaoxiongdu.BigDataApplication - 640181196701099593
+2024-01-23 17:28:10.173 [Thread-53] INFO  cn.shaoxiongdu.BigDataApplication - 450403199601138917
+2024-01-23 17:28:10.173 [Thread-70] INFO  cn.shaoxiongdu.BigDataApplication - 350428195907012976
+2024-01-23 17:28:10.175 [Thread-75] INFO  cn.shaoxiongdu.BigDataApplication - 450702193302096596
+2024-01-23 17:28:10.176 [Thread-6] INFO  cn.shaoxiongdu.BigDataApplication - 430304194601121394
+2024-01-23 17:28:10.176 [Thread-25] INFO  cn.shaoxiongdu.BigDataApplication - 220112195708201938
+2024-01-23 17:28:10.176 [Thread-48] INFO  cn.shaoxiongdu.BigDataApplication - 120111196302029757
+2024-01-23 17:28:10.176 [Thread-85] INFO  cn.shaoxiongdu.BigDataApplication - 450332200209228610
+2024-01-23 17:28:10.176 [Thread-29] INFO  cn.shaoxiongdu.BigDataApplication - 360725200308167012
+2024-01-23 17:28:10.176 [Thread-20] INFO  cn.shaoxiongdu.BigDataApplication - 610422195601159997
+2024-01-23 17:28:10.178 [Thread-27] INFO  cn.shaoxiongdu.BigDataApplication - 310151198111177795
+2024-01-23 17:28:10.179 [Thread-87] INFO  cn.shaoxiongdu.BigDataApplication - 500109198203078017
+2024-01-23 17:28:10.179 [Thread-68] INFO  cn.shaoxiongdu.BigDataApplication - 441821193605300631
+2024-01-23 17:28:10.180 [Thread-84] INFO  cn.shaoxiongdu.BigDataApplication - 41072419621209441X
+2024-01-23 17:28:10.180 [Thread-15] INFO  cn.shaoxiongdu.BigDataApplication - 22052419360924413X
+2024-01-23 17:28:10.180 [Thread-71] INFO  cn.shaoxiongdu.BigDataApplication - 110119194712196013
+2024-01-23 17:28:10.180 [Thread-37] INFO  cn.shaoxiongdu.BigDataApplication - 460203202105065232
+2024-01-23 17:28:10.180 [Thread-46] INFO  cn.shaoxiongdu.BigDataApplication - 610331202109184692
+2024-01-23 17:28:10.182 [Thread-38] INFO  cn.shaoxiongdu.BigDataApplication - 54052619950513431X
+2024-01-23 17:28:10.183 [Thread-23] INFO  cn.shaoxiongdu.BigDataApplication - 230125192603134695
+2024-01-23 17:28:10.183 [Thread-50] INFO  cn.shaoxiongdu.BigDataApplication - 360481199407310274
+2024-01-23 17:28:10.183 [Thread-3] INFO  cn.shaoxiongdu.BigDataApplication - 330681199209126578
+2024-01-23 17:28:10.183 [Thread-21] INFO  cn.shaoxiongdu.BigDataApplication - 510700198509191810
+2024-01-23 17:28:10.183 [Thread-31] INFO  cn.shaoxiongdu.BigDataApplication - 370613198505067716
+2024-01-23 17:28:10.183 [Thread-35] INFO  cn.shaoxiongdu.BigDataApplication - 520500195006071291
+2024-01-23 17:28:10.183 [Thread-89] INFO  cn.shaoxiongdu.BigDataApplication - 150202199411034051
+2024-01-23 17:28:10.183 [Thread-64] INFO  cn.shaoxiongdu.BigDataApplication - 540600197003013211
+2024-01-23 17:28:10.186 [Thread-82] INFO  cn.shaoxiongdu.BigDataApplication - 420324195005202313
+2024-01-23 17:28:10.187 [Thread-81] INFO  cn.shaoxiongdu.BigDataApplication - 13020919510810817X
+2024-01-23 17:28:10.187 [Thread-92] INFO  cn.shaoxiongdu.BigDataApplication - 421100194804242279
+2024-01-23 17:28:10.187 [Thread-34] INFO  cn.shaoxiongdu.BigDataApplication - 210321199805166058
+2024-01-23 17:28:10.187 [Thread-17] INFO  cn.shaoxiongdu.BigDataApplication - 150826199306267914
+2024-01-23 17:28:10.187 [Thread-101] INFO  cn.shaoxiongdu.BigDataApplication - 130125194112232931
+2024-01-23 17:28:10.187 [Thread-67] INFO  cn.shaoxiongdu.BigDataApplication - 220200193709145035
+2024-01-23 17:28:10.187 [Thread-42] INFO  cn.shaoxiongdu.BigDataApplication - 230803193103112355
+2024-01-23 17:28:10.187 [Thread-16] INFO  cn.shaoxiongdu.BigDataApplication - 640205193601151310
+2024-01-23 17:28:10.187 [Thread-47] INFO  cn.shaoxiongdu.BigDataApplication - 230227195309099317
+2024-01-23 17:28:10.194 [Thread-66] INFO  cn.shaoxiongdu.BigDataApplication - 350722198007179051
+2024-01-23 17:28:10.194 [Thread-51] INFO  cn.shaoxiongdu.BigDataApplication - 632200199005234879
+2024-01-23 17:28:10.194 [Thread-32] INFO  cn.shaoxiongdu.BigDataApplication - 341602198901030057
+2024-01-23 17:28:10.194 [Thread-2] INFO  cn.shaoxiongdu.BigDataApplication - 210181196609272939
+2024-01-23 17:28:10.197 [Thread-14] INFO  cn.shaoxiongdu.BigDataApplication - 820000192803250911
+2024-01-23 17:28:10.194 [Thread-10] INFO  cn.shaoxiongdu.BigDataApplication - 210811193905100854
+2024-01-23 17:28:10.194 [Thread-60] INFO  cn.shaoxiongdu.BigDataApplication - 610304196812272857
+2024-01-23 17:28:10.194 [Thread-30] INFO  cn.shaoxiongdu.BigDataApplication - 440114194102081897
+2024-01-23 17:28:10.194 [Thread-76] INFO  cn.shaoxiongdu.BigDataApplication - 110111192805304896
+2024-01-23 17:28:10.198 [Thread-90] INFO  cn.shaoxiongdu.BigDataApplication - 632600196603078317
+2024-01-23 17:28:10.199 [Thread-79] INFO  cn.shaoxiongdu.BigDataApplication - 451003198810115556
+2024-01-23 17:28:10.199 [Thread-83] INFO  cn.shaoxiongdu.BigDataApplication - 441481202011229897
+2024-01-23 17:28:10.200 [Thread-97] INFO  cn.shaoxiongdu.BigDataApplication - 530323200912249732
+2024-01-23 17:28:10.200 [Thread-57] INFO  cn.shaoxiongdu.BigDataApplication - 140403200301175735
+2024-01-23 17:28:10.200 [Thread-43] INFO  cn.shaoxiongdu.BigDataApplication - 450204196310318637
+2024-01-23 17:28:10.200 [Thread-39] INFO  cn.shaoxiongdu.BigDataApplication - 45010919591230287X
+2024-01-23 17:28:10.200 [Thread-33] INFO  cn.shaoxiongdu.BigDataApplication - 110111200310017497
+2024-01-23 17:28:10.200 [Thread-59] INFO  cn.shaoxiongdu.BigDataApplication - 431026196512277153
+2024-01-23 17:28:10.200 [Thread-74] INFO  cn.shaoxiongdu.BigDataApplication - 130229199812073699
+2024-01-23 17:28:10.202 [Thread-5] INFO  cn.shaoxiongdu.BigDataApplication - 530300198007130817
+2024-01-23 17:28:10.203 [Thread-77] INFO  cn.shaoxiongdu.BigDataApplication - 320800196008180516
+2024-01-23 17:28:10.203 [Thread-26] INFO  cn.shaoxiongdu.BigDataApplication - 420625201008287114
+2024-01-23 17:28:10.203 [Thread-61] INFO  cn.shaoxiongdu.BigDataApplication - 310116200312202556
+2024-01-23 17:28:10.203 [Thread-88] INFO  cn.shaoxiongdu.BigDataApplication - 320104194901304890
+2024-01-23 17:28:10.203 [Thread-8] INFO  cn.shaoxiongdu.BigDataApplication - 140882198109062834
+2024-01-23 17:28:10.203 [Thread-62] INFO  cn.shaoxiongdu.BigDataApplication - 210423196801248835
+2024-01-23 17:28:10.203 [Thread-55] INFO  cn.shaoxiongdu.BigDataApplication - 341323200504065294
+2024-01-23 17:28:10.203 [Thread-19] INFO  cn.shaoxiongdu.BigDataApplication - 460107195602095616
+2024-01-23 17:28:10.203 [Thread-52] INFO  cn.shaoxiongdu.BigDataApplication - 321204193203288995
+2024-01-23 17:28:10.203 [Thread-4] INFO  cn.shaoxiongdu.BigDataApplication - 632524193608088452
+2024-01-23 17:28:10.206 [Thread-40] INFO  cn.shaoxiongdu.BigDataApplication - 460106201810183612
+2024-01-23 17:28:10.203 [Thread-18] INFO  cn.shaoxiongdu.BigDataApplication - 371312197306255259
+2024-01-23 17:28:10.207 [Thread-91] INFO  cn.shaoxiongdu.BigDataApplication - 64020219610319171X
+2024-01-23 17:28:10.208 [Thread-44] INFO  cn.shaoxiongdu.BigDataApplication - 310104202303039113
+2024-01-23 17:28:10.208 [Thread-65] INFO  cn.shaoxiongdu.BigDataApplication - 640424195305037790
+2024-01-23 17:28:10.208 [Thread-98] INFO  cn.shaoxiongdu.BigDataApplication - 431025201610306752
+2024-01-23 17:28:10.208 [Thread-7] INFO  cn.shaoxiongdu.BigDataApplication - 110117202202258311
+2024-01-23 17:28:10.208 [Thread-11] INFO  cn.shaoxiongdu.BigDataApplication - 82000019820222351X
+2024-01-23 17:28:10.208 [Thread-9] INFO  cn.shaoxiongdu.BigDataApplication - 231004194403101496
+2024-01-23 17:28:10.208 [Thread-41] INFO  cn.shaoxiongdu.BigDataApplication - 340822196304080933
+2024-01-23 17:28:10.208 [Thread-100] INFO  cn.shaoxiongdu.BigDataApplication - 650205199301188938
+2024-01-23 17:28:10.209 [Thread-93] INFO  cn.shaoxiongdu.BigDataApplication - 231000196411075033
+2024-01-23 17:28:10.209 [Thread-96] INFO  cn.shaoxiongdu.BigDataApplication - 469007198308258177
+2024-01-23 17:28:10.209 [Thread-69] INFO  cn.shaoxiongdu.BigDataApplication - 210111197708161893
+2024-01-23 17:28:10.209 [Thread-73] INFO  cn.shaoxiongdu.BigDataApplication - 469021195910232715
+2024-01-23 17:29:36.422 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:29:36.433 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:29:36.433 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:30:16.748 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 54770 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:30:16.749 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:30:17.173 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:30:17.178 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:30:17.178 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:30:17.178 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:30:17.212 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:30:17.212 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 435 ms
+2024-01-23 17:30:17.285 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:30:17.482 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:30:17.492 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:30:17.497 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.921 seconds (JVM running for 1.218)
+2024-01-23 17:30:17.525 [Thread-27] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:30:17.684 [Thread-720] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:30:17.788 [Thread-720] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:31:07.219 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:31:07.323 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:31:07.323 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:31:22.963 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 55028 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:31:22.964 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:31:23.396 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:31:23.400 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:23.400 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:31:23.400 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:31:23.432 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:31:23.432 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 446 ms
+2024-01-23 17:31:23.501 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:31:23.709 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:23.719 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:31:23.724 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.898 seconds (JVM running for 1.146)
+2024-01-23 17:31:23.761 [Thread-43] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:31:23.936 [Thread-1540] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:31:24.078 [Thread-1540] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:31:39.932 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 55071 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:31:39.932 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:31:40.328 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:31:40.332 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:40.332 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:31:40.332 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:31:40.366 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:31:40.366 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 409 ms
+2024-01-23 17:31:40.442 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:31:40.633 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:40.643 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:31:40.649 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.868 seconds (JVM running for 1.117)
+2024-01-23 17:31:40.686 [Thread-17] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:31:40.871 [Thread-1144] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:31:41.022 [Thread-1144] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:31:48.761 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 55211 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:31:48.762 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:31:49.156 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:31:49.161 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:49.161 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:31:49.161 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:31:49.194 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:31:49.194 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 410 ms
+2024-01-23 17:31:49.264 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:31:49.448 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:31:49.456 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:31:49.461 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.833 seconds (JVM running for 1.078)
+2024-01-23 17:31:49.487 [Thread-41] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:31:49.685 [Thread-880] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:31:49.799 [Thread-880] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:50:00.144 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:50:00.469 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-23 17:50:00.470 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:50:50.521 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 59848 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:50:50.522 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:50:51.001 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:50:51.006 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:50:51.006 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:50:51.006 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:50:51.045 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:50:51.045 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 497 ms
+2024-01-23 17:50:51.123 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:50:51.348 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:50:51.358 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:50:51.364 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 1.0 seconds (JVM running for 1.395)
+2024-01-23 17:50:51.401 [Thread-35] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:50:51.623 [Thread-986] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:50:51.886 [Thread-986] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 17:52:33.957 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
