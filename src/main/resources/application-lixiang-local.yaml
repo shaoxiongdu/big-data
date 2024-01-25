@@ -1,6 +1,21 @@
 spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    username: root
-    password: root
-    url: jdbc:mysql://localhost:3306/big_data?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+  shardingsphere:
+    datasource:
+      names: ds0 # 数据源名称
+      ds0: # 配置数据源
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://localhost:3306/big_data?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+        username: root
+        password: root
+    sharding:
+      tables:
+        system_user: # 逻辑表名称
+          actual-data-nodes: ds0.system_user_$->{0..9} # 实际数据节点
+          table-strategy:
+            inline:
+              sharding-column: id # 分片键
+              algorithm-expression: system_user_$->{id % 10} # 分片算法
+          key-generator:
+            column: id
+            type: SNOWFLAKE # 使用SNOWFLAKE算法生成分布式ID

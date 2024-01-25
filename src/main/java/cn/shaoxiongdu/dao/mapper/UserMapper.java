@@ -16,7 +16,7 @@
 
 package cn.shaoxiongdu.dao.mapper;
 
-import cn.shaoxiongdu.dao.entity.User;
+import cn.shaoxiongdu.dao.entity.SystemUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 
@@ -26,6 +26,6 @@ import org.apache.ibatis.annotations.Mapper;
  * @describe:
  */
 @Mapper
-public interface UserMapper extends BaseMapper<User> {
+public interface UserMapper extends BaseMapper<SystemUser> {
 
 }

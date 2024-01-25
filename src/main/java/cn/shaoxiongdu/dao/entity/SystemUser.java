@@ -35,9 +35,8 @@ import java.util.concurrent.ThreadLocalRandom;
  * @describe:
  */
 @Data
-@TableName("system_user")
 @Builder
-public class User {
+public class SystemUser {
 
     @TableId
     private Long id;
@@ -76,7 +75,7 @@ public class User {
      */
     private String graduationSchool;
     
-    public static User random(){
+    public static SystemUser random(){
         
         Integer zipCode = null;
         try {
@@ -103,7 +102,7 @@ public class User {
             province = Province.BJ;
         }
         
-        return new UserBuilder()
+        return new SystemUserBuilder()
                 .idCardNumber(idCardNumber)
                 .gender(IdcardUtil.getGenderByIdCard(idCardNumber))
                 .name(RandomSource.personInfoSource().randomChineseName())

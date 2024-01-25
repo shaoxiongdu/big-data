@@ -1531,3 +1531,19 @@ Caused by: java.lang.ClassNotFoundException: org.springframework.dao.support.Dao
 2024-01-23 17:50:51.623 [Thread-986] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
 2024-01-23 17:50:51.886 [Thread-986] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
 2024-01-23 17:52:33.957 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-23 17:58:44.388 [main] INFO  cn.shaoxiongdu.BigDataApplication - Starting BigDataApplication on MacBook-Pro-9.local with PID 61064 (/Users/dushaoxiong/code/Idea/big-data/target/classes started by dushaoxiong in /Users/dushaoxiong/code/Idea/big-data)
+2024-01-23 17:58:44.390 [main] INFO  cn.shaoxiongdu.BigDataApplication - The following profiles are active: local
+2024-01-23 17:58:44.812 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2024-01-23 17:58:44.817 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+2024-01-23 17:58:44.817 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-23 17:58:44.818 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2024-01-23 17:58:44.851 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-23 17:58:44.851 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 437 ms
+2024-01-23 17:58:44.930 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-01-23 17:58:45.156 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+2024-01-23 17:58:45.166 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2024-01-23 17:58:45.172 [main] INFO  cn.shaoxiongdu.BigDataApplication - Started BigDataApplication in 0.935 seconds (JVM running for 1.278)
+2024-01-23 17:58:45.207 [Thread-19] INFO  c.a.common.random.util.JsonUtils - 将使用 jackson
+2024-01-23 17:58:45.424 [Thread-1787] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-23 17:58:45.561 [Thread-1787] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-23 18:02:02.605 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
